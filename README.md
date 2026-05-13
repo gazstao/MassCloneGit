@@ -1,6 +1,6 @@
 # MassCloneGit 🚀
 
-Clone todos os repositórios de um usuário ou organização no GitHub — públicos e também privados (caso você tenha permissão de acesso).
+Clone todos os repositórios de um usuário ou organização no GitHub, públicos e  privados (caso você tenha permissão de acesso).
 
 Ideal para:
 
