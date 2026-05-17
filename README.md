@@ -16,11 +16,12 @@ Ideal para:
 
 Antes de começar, instale o GitHub CLI.
 
-### 1️⃣ Instalar o GitHub CLI
+### 1️⃣ Instalar o Git e o GitHubCLI
 
 Abra o PowerShell e execute:
 
 ```powershell
+winget install -e --id Git.Git
 winget install --source winget --id GitHub.cli 
 ```
 
