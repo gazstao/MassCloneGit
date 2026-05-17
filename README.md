@@ -21,7 +21,7 @@ Antes de começar, instale o GitHub CLI.
 Abra o PowerShell e execute:
 
 ```powershell
-winget install --id GitHub.cli
+winget install --source winget --id GitHub.cli 
 ```
 
 Depois, verifique se a instalação funcionou:
